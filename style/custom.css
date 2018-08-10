@@ -1,15 +1,16 @@
 #header-image {
 background-size: cover;
-background-image: url("../img/js-code-1920x1280-op20.jpg");
+background-image: url("../img/anacapa-rock-pile-1080p.jpg");
 height: 100vh;
 width: 100vw;
+color: white;
 display: flex;
 flex-direction: column;
 justify-content: center;
 }
 
-.text-shadow-white {
-  text-shadow: #FFF 0 0 20px;
+.text-shadow-black {
+  text-shadow: #000 0 0 20px;
 }
 
 .header-text-container {
