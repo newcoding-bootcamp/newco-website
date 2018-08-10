@@ -1,5 +1,6 @@
 #header-image {
 background-size: cover;
+background-position: center center;
 background-image: url("../img/anacapa-rock-pile-1080p.jpg");
 height: 100vh;
 width: 100vw;
